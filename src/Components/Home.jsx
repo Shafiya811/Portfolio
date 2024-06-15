@@ -45,7 +45,7 @@ Home.defaultProps = {
 };
 
 Home.propTypes = {
-  name: PropTypes.string.isRequired,
+  name: PropTypes.string.isRexquired,
   title: PropTypes.string.isRequired,
 };
 
