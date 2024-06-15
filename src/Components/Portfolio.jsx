@@ -44,12 +44,12 @@ const projectList = [
   {
     title: "Chemical Trading Website",
     description: "Internship project for trading chemicals online.",
-        url: "https://shafiya811.github.io/ChemicalTradingWebsite/homePage/index.html",
+    url: "https://shafiya811.github.io/ChemicalTradingWebsite/homePage/index.html",
   },
   {
     title: "Rock Paper Scissors Game Website",
     description: "An engaging game between the computer and the user, developed using HTML, CSS, and JS.",
-        url: "https://shafiya811.github.io/rockPaperScissorsGame/",
+    url: "https://shafiya811.github.io/rockPaperScissorsGame/",
   },
 ];
 
