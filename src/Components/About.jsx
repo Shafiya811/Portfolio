@@ -24,7 +24,7 @@ const imageAltText = "background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I am a recent B.Tech graduate in Computer Science (2024), actively seeking web development opportunities. I am passionate about creating dynamic and responsive web applications and eager to contribute my skills and knowledge in a professional setting.";
+  "I am a recent B.Tech graduate in Computer Science (2024), actively seeking web development opportunities. I am passionate about creating dynamic and responsive web applications.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation.";
+  "I am passionate about solving problems in new creative ways to drive innovation eager to contribute my skills and knowledge in a professional setting.";
 
 const About = () => {
   return (
